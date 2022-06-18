@@ -39,7 +39,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## My process
 
 - Rounded corners being weird (unresolved)
+  - Resolved by using px instead of percentages
 
+- In desktop view, the qr code card is not centered horizontally bc the body element is only taking up half the screen?
 ### Built with
 
 - Semantic HTML5 markup
