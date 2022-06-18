@@ -19,7 +19,7 @@ This is my first challenge with Frontend Mentor. I used a mobile-first approach 
 
 ### Screenshot
 
-![](../qr-code-component-main/images/qr-code-component_frontend-mentor.png)
+![](./images/qr-code-component_frontend-mentor.png)
 
 ### Links
 
