@@ -38,6 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+- Rounded corners being weird (unresolved)
+
 ### Built with
 
 - Semantic HTML5 markup
