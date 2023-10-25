@@ -28,7 +28,7 @@ This was my first challenge with Frontend Mentor. I used a mobile-first approach
 
 ## My process
 
-I started by building my HTML and then moved on to CSS, using a mobile-first workflow. I used Chrome DevTools liberally to make finetune adjustments as I was finishing up the project. Although the challenge only called for mobile and desktop sites, I found that I preferred to add third breakpoint for tablet screen sizes (675px).
+I started by building my HTML and then moved on to CSS, using a mobile-first workflow. I used Chrome DevTools to make finetune adjustments as I was finishing up the project. Although the challenge only called for mobile and desktop sites, I found that I preferred to add third breakpoint for tablet screen sizes (675px).
 
 ### Built with
 
@@ -49,5 +49,5 @@ My goal with working on this challenge was to get more practice using CSS flexbo
 
 ## Author
 
-- Website - [Sheila Blair](https://www.sheilablair.com)
-- Frontend Mentor - [@sheblair](https://www.frontendmentor.io/profile/sheblair)
+- [Sheila Blair](https://www.linkedin.com/in/sheblair/)
+- [@sheblair](https://www.frontendmentor.io/profile/sheblair)
