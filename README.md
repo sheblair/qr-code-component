@@ -28,7 +28,7 @@ This was my first challenge with Frontend Mentor. I used a mobile-first approach
 
 ## My process
 
-I started by building my HTML and then moved on to CSS, using a mobile-first workflow. I used Chrome DevTools to make finetune adjustments as I was finishing up the project. Although the challenge only called for mobile and desktop sites, I found that I preferred to add third breakpoint for tablet screen sizes (675px).
+I built a version of this component when I was very early in my journey learning HTML and CSS. About a year later, I came back to tweak it and found that I wanted to add better class names for my component, as well as change the way I was cascading styles from parent to child elements. I also wanted to change the way I was setting the margin for the component. Small changes but they were a strong reflection of how second-nature much of my CSS knowledge had become over just a year of practicing. Things that I had to think hard about when I first built this component had become obvious and intuitive to me.
 
 ### Built with
 
