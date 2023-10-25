@@ -19,12 +19,12 @@ This was my first challenge with Frontend Mentor. I used a mobile-first approach
 
 ### Screenshot
 
-![](./images/qr-code-component_frontend-mentor.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- [Solution](https://github.com/sheblair/qr-code-component-main)
-- [Live Site](https://sheblair.github.io/qr-code-component/)
+- [Solution](https://github.com/sheblair/qr-code-component)
+- [Live Site](https://sheblair.github.io/qr-code-component)
 
 ## My process
 
