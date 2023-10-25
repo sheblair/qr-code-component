@@ -23,7 +23,7 @@ This was my first challenge with Frontend Mentor. I used a mobile-first approach
 
 ### Links
 
-- [Solution](https://github.com/sheblair/qr-code-component)
+- [Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-MZMomtq6ug)
 - [Live Site](https://sheblair.github.io/qr-code-component)
 
 ## My process
