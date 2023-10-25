@@ -24,7 +24,7 @@ This was my first challenge with Frontend Mentor. I used a mobile-first approach
 ### Links
 
 - [Solution](https://github.com/sheblair/qr-code-component-main)
-- [Live Site URL](https://sheblair.github.io/qr-code-component-main/)
+- [Live Site](https://sheblair.github.io/qr-code-component-main/)
 
 ## My process
 
