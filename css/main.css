@@ -10,7 +10,7 @@ body {
 
 .card-container {
     background-color: hsl(0, 0%, 100%);
-    margin: 100px auto;
+    margin: 30px auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -55,4 +55,10 @@ body {
 
 .credit-container a {
     color: hsl(228, 45%, 44%);
+}
+
+@media (min-width: 800px) {
+    .card-container {
+        margin: 100px auto;
+    }
 }
